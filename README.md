@@ -14,6 +14,7 @@
 
 ### Capítulo XII
 
+![Untitled Workspace](https://user-images.githubusercontent.com/105740772/179018485-5ab51de3-e6b3-40ac-a165-e286ecfb1ad6.png)
 
 ## 3. Explicación y resolución de ejercicios
 ## 4. Video
