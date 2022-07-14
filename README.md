@@ -143,17 +143,27 @@
 
 18.Identifique las partes del capacitor de disco de cerámica mostrado en la vista de corte de la figura 12-67. 
 
+![image](https://user-images.githubusercontent.com/105740772/179073898-9439193d-f27d-407c-9983-f7c5b71c0469.png)
+
 20.Cinco capacitores de 1000 pF están en serie. ¿Cuál es la capacitancia total?
 
 ![image](https://user-images.githubusercontent.com/105740772/179035604-b3fff4fa-5d4b-4acb-95df-6047733676c1.png)
 
 22.Para cada circuito de la figura 12-69, determine el voltaje entre las terminales de cada capacitor
 
+![image](https://user-images.githubusercontent.com/105740772/179074636-8e1e6e6b-301a-41d6-8351-8358da6d24ba.png)
+
 24.La carga total guardada por los capacitores en serie de la figura 12-70 es de 10 mC. Determine el voltaje entre las terminales de cada capacitor. 
+
+![image](https://user-images.githubusercontent.com/105740772/179075509-0480d8d1-dc75-4a5b-9853-c80a4579d81c.png)
 
 26.¿Cuál es la carga en cada capacitor de la figura 12-71?
 
+![image](https://user-images.githubusercontent.com/105740772/179076152-9ab2e2cc-6463-439c-9bdc-2b7df749ce74.png)
+
 28.¿Cuál es el voltaje entre los nodos A y B en cada circuito de la figura 12-72?
+
+![image](https://user-images.githubusercontent.com/105740772/179076386-3cd6cdaf-056d-4692-9c3c-daa1549a7c6f.png)
 
 30.Determine la constante de tiempo para cada una de las combinaciones en serie:
 
@@ -161,17 +171,31 @@
 
 32.En el circuito de la figura 12-74, inicialmente el capacitor está descargado. Determine el voltaje presente en el capacitor en los instantes posteriores al cierre del interruptor:
 
+![image](https://user-images.githubusercontent.com/105740772/179076606-2d2314d7-c5d3-4b26-a6e5-92ec7fea92bd.png)
+
 34.Repita el problema 32 con los siguientes intervalos de tiempo:
+
+![image](https://user-images.githubusercontent.com/105740772/179076728-e3e58cbf-808c-40c0-8a80-c81b4e532ca4.png)
 
 36.Derive la fórmula para determinar el tiempo en cualquier punto de una curva de voltaje exponencial creciente. Use esta fórmula para calcular el tiempo en el cual el voltaje que aparece en la figura 12-76 llega a 6 V después de cerrar el interruptor. 
 
+![image](https://user-images.githubusercontent.com/105740772/179076972-0f4bff6a-e073-4917-a849-8a301f2ebcb8.png)
+
 38.¿Cuánto tiempo requiere el capacitor C para descargarse a 3 V en la figura 12-75?
+
+![image](https://user-images.githubusercontent.com/105740772/179077147-7a7f1973-23c2-4c86-9268-a2e081a81518.png)
 
 40.En la figura 12-78, inicialmente el capacitor está descargado. En el instante t  10 ms después de que se cierra el interruptor, el voltaje instantáneo en el capacitor es de 7.2 V. Determine el valor de R.
 
+![image](https://user-images.githubusercontent.com/105740772/179077387-ad46636f-19db-4224-bf4c-9d69d5e719c5.png)
+
 42.¿Cuál es el valor de la reactancia capacitiva total en cada circuito de la figura 12-80?
 
+![image](https://user-images.githubusercontent.com/105740772/179077708-28f1f208-1a46-46c1-aa74-5fbcbde3e8d9.png)
+
 44. En cada circuito de la figura 12-80, ¿qué frecuencia se requiere para producir una XC de 100 Æ? ¿Una XC de 1 kÆ?
+
+![image](https://user-images.githubusercontent.com/105740772/179078191-ccc5313d-88f0-4e4f-b208-19ac15f156ba.png)
 
 46.Se aplica un voltaje de 10 kHz a un capacitor de 0.0047 mF, y se mide una corriente rms de 1 mA. ¿Cuál es el valor del voltaje?
 
@@ -179,7 +203,11 @@
 
 48.Determine el voltaje de ca entre las terminales de cada capacitor y la corriente en cada rama del circuito de la figura 12-81. 
 
+![image](https://user-images.githubusercontent.com/105740772/179078885-838bdc37-798d-4f7e-a4fe-bf4e43ea82c8.png)
+
 50.Si en la figura 12-81 C4 se abriera, determine los voltajes que se medirían entre las terminales de los otros capacitores.
+
+![image](https://user-images.githubusercontent.com/105740772/179079157-4cd6c973-9887-41e0-8cec-f798de5005c8.png)
 
 52.Idealmente, ¿cuál deberá ser la reactancia de un capacitor de desvío para eliminar un voltaje de ca de 10 kHz en un punto dado en un circuito amplificador?
 
