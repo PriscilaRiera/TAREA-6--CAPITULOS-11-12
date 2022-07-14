@@ -113,9 +113,10 @@
 
 ## 4. Video
 ## 5. Conclusiones
-- AAA
+- En los circuitos a lo cuales se les aplica corriente alterna tendrán ondas sinusoidales en las que podremos reconocer picos máximos y mínimos, a su vez tambien sabemos que las fórmulas que se relacionan con estas ondas estan estrechamente relacionadas con los ángulos, el periodo, la frecuencia, entre otros, lo que nos facilitara encontrar la corriente y el voltaje.
 
-- AAAA
+- Los capacitores son dispositivos que tienen distintos tamaños, formas, y que son capaces de almacenar energía, son usados en varias aplicaciones relacionadas a la electricidad, que pueden ir desde el lmacenamiento eléctricos hasta ser usados en memorias de computadores y se los puede distinguir en dos formas, los capacitores fijos y variables.
+
 ## 6. Bibliografía
 
 Floyd, T. L. (2007). Principios de circuitos eléctricos. Monterrey: Pearson Education.
