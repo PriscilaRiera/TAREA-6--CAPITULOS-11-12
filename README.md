@@ -219,6 +219,7 @@
 
 ## 4. Video
 
+https://www.youtube.com/watch?v=Y4q69tlE_SI
 
 ## 5. Conclusiones
 - En los circuitos a lo cuales se les aplica corriente alterna tendrán ondas sinusoidales en las que podremos reconocer picos máximos y mínimos, a su vez tambien sabemos que las fórmulas que se relacionan con estas ondas estan estrechamente relacionadas con los ángulos, el periodo, la frecuencia, entre otros, lo que nos facilitara encontrar la corriente y el voltaje.
